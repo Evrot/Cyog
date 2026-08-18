@@ -7,8 +7,11 @@ As someone who likes to think about how data can present possibilities, or even 
 My name is Danniel Franco. I am currently pursuing a double major in Computer Science and Data Science at the University of Health Science and Pharmacy in St. Louis, and, like many people out there, was very indecisive about what path to pursue; however, this summer I decided to narrow it down to four possible things I enjoy doing most (which, curiously enough, will be my learning focus here):
 
 ▪ **Data Analysis** - How stories can be told through data
+
 ▪ **Machine Learning Models** - How predictions can drive decisions
+
 ▪ **Software Development & Algorithms** - How optimization of building things matter
+
 ▪ **Cybersecurity** - How to better understand risks
 
 
